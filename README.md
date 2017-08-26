@@ -27,6 +27,8 @@ First Header | Second Header| XYZ
 ------------ | -------------|----
 Content from cell 1 | Content from cell 2| X
 Content in the first column | Content in the second column|YZ
+1|2|3
+4|5|6
 
 The function `goHome()` is a main function!
 
