@@ -1,6 +1,6 @@
-# [3D-ActionVLAD: Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation on Different Representation](https://rezazad.000webhostapp.com)
+# [Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation on Different Representation](https://rezazad.000webhostapp.com)
 
-# [Dynamic 3D Action Recognition on RGB-D Videos] (https://rezazad.000webhostapp.com/)
+
 Dynamic 3D Human Action and Hand Gesture Recogntin - New Method with State of the Art Results
 
 # Heading 1
