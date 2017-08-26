@@ -13,31 +13,15 @@ This code has been implemented in Matlab 2016a and tested in both Linux(ubuntu) 
 ## Run Demo
 Run the `Main_MSRAction3D()` for both feature extraction and classification of dynamic 3D action. The `Main_MSRAction3D` uses `Step1_Extract_Featues` for extracting spatio-temporal features from different represantion of 3D video and `Step2_Description_Classification` for aggregating of descriptions and classification phase. These two functions can be use seperetely too. Function such as `Video Summarization()`, `Forward Bakward Motion()`, `Difference Forward Energy()`, `Temporal Sequence Generating()`, `Binary Weighted Mapping()`, and extracting `Regional LBP and HOG features()` has been implemented in 'Video_Analyser' class. the `Description_Classification class` contains functions that related to Vlad representation and classification phase.    
 </br>
-## Short Overview
+## Quick Overview
 ![Action and Hand Gesture Recognition](https://user-images.githubusercontent.com/20574689/29744825-1f43af08-8ac2-11e7-894e-2cb1b316185a.png)
 =========
-## Heading 2
+## Results
 Heading 2
 ---------
-### Heading 3
-#### Heading 4
-**Bold**
-*Italik*
-<br />
 
-* One
-* Two
-* Three
 
-<br />
-
-1. One
-1. One
-1. One
-
-The word ~~We~~ must be omitted :+1:
-
-First Header | Second Header| XYZ
+Different-Representaion+HOG+Vlad | Different-Representaion+LBP+Vlad| Different-Representaion+HOG+LBP+Vlad
 ------------ | -------------|----
 Content from cell 1 | Content from cell 2| X
 Content in the first column | Content in the second column|YZ
