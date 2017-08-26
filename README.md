@@ -12,7 +12,7 @@ This code has been implemented in Matlab 2016a and tested in both Linux(ubuntu) 
 - [VL feat 0.9.20](http://www.vlfeat.org/)
 </br>
 **Run Demo** </br>
-Run the `Main_MSRAction3D()` for both feature extraction and classification of dynamic 3D action. The `Main_MSRAction3D` uses `Step1_Extract_Featues` for extracting spatio-temporal features from different represantion of 3D video and `Step2_Description_Classification` for aggregating of descriptions and classification phase. These two functions can be use seperetely too. Function that related to `Video Summarization`, `Forward Bakward Motion`, `Difference Forward Energy`, `Temporal Sequence Generating`, `Binary Weighted Mapping`, and extracting `Regional LBP and HOG` features has been implemented in 'Video_Analyser' class.     
+Run theThe function `goHome()` is a main function! `Main_MSRAction3D()` for both feature extraction and classification of dynamic 3D action. The `Main_MSRAction3D` uses `Step1_Extract_Featues` for extracting spatio-temporal features from different represantion of 3D video and `Step2_Description_Classification` for aggregating of descriptions and classification phase. These two functions can be use seperetely too. Function that related to `Video Summarization`, `Forward Bakward Motion`, `Difference Forward Energy`, `Temporal Sequence Generating`, `Binary Weighted Mapping`, and extracting `Regional LBP and HOG` features has been implemented in 'Video_Analyser' class.     
 </br>
 ## Short Overview
 ![Action and Hand Gesture Recognition](https://user-images.githubusercontent.com/20574689/29744825-1f43af08-8ac2-11e7-894e-2cb1b316185a.png)
