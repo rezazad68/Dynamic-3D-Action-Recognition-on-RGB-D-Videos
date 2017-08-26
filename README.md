@@ -14,3 +14,9 @@ Heading 2
 <br />
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
