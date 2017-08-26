@@ -23,9 +23,9 @@ Heading 2
 
 Data Set| Different-Representaion+HOG+Vlad | Different-Representaion+LBP+Vlad| Different-Representaion+HOG+LBP+Vlad
 ------------ | -------------|----|----
-[MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) | Content from cell 2| X|1
-Content in the first column | Content in the second column|YZ|1
-1|2|3|2
+[MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) | 96.22| 96.52|98.05
+[SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
+[MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
 
 
 The function `goHome()` is a main function!
