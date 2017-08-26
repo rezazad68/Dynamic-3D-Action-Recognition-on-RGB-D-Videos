@@ -13,6 +13,16 @@ Heading 2
 *Italik*
 <br />
 
+* One
+* Two
+* Three
+
+<br />
+
+1. One
+1. One
+1. One
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```javascript
