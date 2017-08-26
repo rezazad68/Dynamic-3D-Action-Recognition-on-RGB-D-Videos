@@ -17,11 +17,13 @@ Run the `Main_MSRAction3D()` for both feature extraction and classification of d
 ![Action and Hand Gesture Recognition](https://user-images.githubusercontent.com/20574689/29744825-1f43af08-8ac2-11e7-894e-2cb1b316185a.png)
 =========
 ## Results
-Heading 2
+For evaluating the performance of the proposed methdo, three public data sets has been used. In bellow, results of using three different strategies for 3D Action classification demonstrated.
+
+Strategy 1 : Vlad Representation of Spatio-Temporal HOG Features from Different Representations
+Strategy 2 : Vlad Representation of Spatio-Temporal LBP Features from Different Representations 
+Strategy 3 : Vlad Representation of Spatio-Temporal HOG+LBP Features from Different Representations 
 ---------
-
-
-Data Set| Different-Representaion+HOG+Vlad | Different-Representaion+LBP+Vlad| Different-Representaion+HOG+LBP+Vlad
+Data Set| Strategy 1 | Strategy 2| Strategy 3
 ------------ | -------------|----|----
 [MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) | 96.22| 96.52|98.05
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
