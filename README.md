@@ -17,7 +17,7 @@ Run the `Main_MSRAction3D()` for both feature extraction and classification of d
 ![Action and Hand Gesture Recognition](https://user-images.githubusercontent.com/20574689/29744825-1f43af08-8ac2-11e7-894e-2cb1b316185a.png)
 =========
 ## Results
-For evaluating the performance of the proposed methdo, three public data sets has been used. In bellow, results of using three different strategies for 3D Action classification demonstrated.
+For evaluating the performance of the proposed method, three public data sets has been considered. In bellow, results of using three different strategies for 3D Action recognition demonstrated.
 </br>
 - Strategy 1 : Vlad Representation of Spatio-Temporal HOG Features from Different Representations
 - Strategy 2 : Vlad Representation of Spatio-Temporal LBP Features from Different Representations 
@@ -29,26 +29,9 @@ Data Set| Strategy 1 | Strategy 2| Strategy 3
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
 [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
 
-
-The function `goHome()` is a main function!
+### Query
+For any query please contact us for more information.
 
 ```matlab
-function goHome()
-  if true
-    disp('Go Home!')
-  end
-end
-```
-
-Pleas click on this [google](https://www.google.com)!
-
-
-Ziserman told me:
-
-> You are amazing Reza!!!
-
-```javascript
-if (isAwesome){
-  return true
-}
+rezazad68@gmail.com
 ```
