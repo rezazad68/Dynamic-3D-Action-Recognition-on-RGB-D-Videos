@@ -27,6 +27,10 @@ Pleas click on this [google](https://www.google.com)!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Ziserman told me:
+
+> You are amazing Reza!!!
+
 ```javascript
 if (isAwesome){
   return true
