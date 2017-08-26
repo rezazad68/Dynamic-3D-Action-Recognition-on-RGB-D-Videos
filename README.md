@@ -23,7 +23,7 @@ Heading 2
 1. One
 1. One
 
-The word ~~We~~ must be omitted!
+The word ~~We~~ must be omitted :+1:
 
 First Header | Second Header| XYZ
 ------------ | -------------|----
