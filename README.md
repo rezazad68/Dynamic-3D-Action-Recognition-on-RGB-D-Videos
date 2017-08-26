@@ -23,6 +23,8 @@ Heading 2
 1. One
 1. One
 
+The word ~~We~~ must be omitted!
+
 First Header | Second Header| XYZ
 ------------ | -------------|----
 Content from cell 1 | Content from cell 2| X
