@@ -1,10 +1,18 @@
 # [Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation on Different Representation](https://rezazad.000webhostapp.com)
 
 
-Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public datasets. This method learns human actions with aggregating of spatio-temporal description from different representation. If this code helps with your research please consider citing following paper:
+Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public datasets. This Method Learns Human Actions with Aggregating of Spatio-Temporal Description from different representation. If this code helps with your research please consider citing following paper:
 </br>
-> R. Azad and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation on Different Representation", To be submit.
-## Demo
+> R. Azad and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation on Different Representation", To be submit, 2017.
+## Updates
+- Aug 28, 2017: First release, Complete Implementation for MSR Action 3D dataset
+## Prerequisties and Run
+This code has been implemented in Matlab 2016a and tested in both Linux(ubuntu) and Windows 10, though should be compatible with any OS running Matlab. following Environement and Library needed to run the code:
+* Matlab 2016
+* [VL feat 0.9.20](http://www.vlfeat.org/)
+</br>
+
+## Short Overview
 ![Action and Hand Gesture Recognition](https://user-images.githubusercontent.com/20574689/29744825-1f43af08-8ac2-11e7-894e-2cb1b316185a.png)
 =========
 ## Heading 2
@@ -47,7 +55,6 @@ end
 
 Pleas click on this [google](https://www.google.com)!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Ziserman told me:
 
