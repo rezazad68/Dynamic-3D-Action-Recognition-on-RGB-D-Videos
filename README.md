@@ -2,6 +2,7 @@
 
 
 Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public datasets. This method learns human actions with aggregating of spatio-temporal description from different representation. If this code helps with your research please consider citing following paper:
+</br>
 R. Azad and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation on Different Representation", To be submit.
 
 aggregation of uses different represenation of videos- New Method with State of the Art Results
