@@ -23,6 +23,9 @@ Heading 2
 1. One
 1. One
 
+|State of the Art|Proposed Method|
+|58%|100%|
+
 The function `goHome()` is a main function!
 
 ```matlab
