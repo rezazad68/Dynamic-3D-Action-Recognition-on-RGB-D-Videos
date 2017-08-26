@@ -18,11 +18,11 @@ Run the `Main_MSRAction3D()` for both feature extraction and classification of d
 =========
 ## Results
 For evaluating the performance of the proposed methdo, three public data sets has been used. In bellow, results of using three different strategies for 3D Action classification demonstrated.
-
+</br>
 Strategy 1 : Vlad Representation of Spatio-Temporal HOG Features from Different Representations
 Strategy 2 : Vlad Representation of Spatio-Temporal LBP Features from Different Representations 
 Strategy 3 : Vlad Representation of Spatio-Temporal HOG+LBP Features from Different Representations 
----------
+</br>
 Data Set| Strategy 1 | Strategy 2| Strategy 3
 ------------ | -------------|----|----
 [MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) | 96.22| 96.52|98.05
