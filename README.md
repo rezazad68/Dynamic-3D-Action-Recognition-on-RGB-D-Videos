@@ -23,6 +23,16 @@ Heading 2
 1. One
 1. One
 
+The function `goHome()` is a main function!
+
+```matlab
+function goHome()
+  if true
+    disp('Go Home!')
+  end
+end
+```
+
 Pleas click on this [google](https://www.google.com)!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
