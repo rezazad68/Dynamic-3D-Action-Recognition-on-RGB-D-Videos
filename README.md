@@ -32,7 +32,7 @@ Data Set| Strategy 1 | Strategy 2| Strategy 3
 #### Effect of Choosing number of Visual Words on each data set has been illustrated in followin tables:
 Selecting number of Visual Words on each data sets related to number of classes on each data set. In the following table these information has been evaluated. </br>
 
- |25|30|40|50|70|100|128
+Number of Visual Words|25|30|40|50|70|100|128
 ---|---|---|---|---|---|---|---
 [MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) |98.05|97.50|97.50|96.94|96.66|96.38|96.38
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) |97.13|97.22|96.67|96.48|96.76|96.30|96.02
@@ -42,7 +42,8 @@ Selecting number of Visual Words on each data sets related to number of classes 
 
 #### Choosing appropriate number of PCA components
 in the following table accuracy rate for choosing different amount of PCA components depicted. </br>
-1|70|100|130|160|190|220|250
+
+PCA Components|70|100|130|160|190|220|250
 ---|---|---|---|---|---|---|---
 [MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) |97.50|97.77|98.05|97.50|98.05|97.50|97.50
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) |96.57|97.13|97.22|97.31|97.31|96.94|97.31
