@@ -52,6 +52,6 @@ PCA Components|70|100|130|160|190|220|250
 ### Query
 For any query please contact us for more information.
 
-```matlab
-rezazad68@gmail.com
+```python
+razad@ce.sharif.edu
 ```
