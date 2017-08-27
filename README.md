@@ -29,8 +29,10 @@ Data Set| Strategy 1 | Strategy 2| Strategy 3
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
 [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
 </br>
-**Effect of Choosing number of Visual Words on each data set has been illustrated in followin tables:**
-</br>
+### Effect of Choosing number of Visual Words on each data set has been illustrated in followin tables:
+
+
+
 ### Query
 For any query please contact us for more information.
 
