@@ -7,7 +7,7 @@ Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of
 ## Updates
 - Aug 29, 2017: First release, Complete Implementation for MSR Action 3D dataset
 ## Prerequisties and Run
-This code has been implemented in Matlab 2016a and tested in both Linux(ubuntu) and Windows 10, though should be compatible with any OS running Matlab. following Environement and Library needed to run the code:
+This code has been implemented in Matlab 2016a and tested in both Linux (ubuntu) and Windows 10, though should be compatible with any OS running Matlab. following Environement and Library needed to run the code:
 - Matlab 2016
 - [VL feat 0.9.20](http://www.vlfeat.org/)
 ## Run Demo
@@ -29,7 +29,7 @@ Data Set| Strategy 1 | Strategy 2| Strategy 3
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
 [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
 
-#### Effect of Choosing number of Visual Words on each data set has been illustrated in followin tables:
+#### Effect of Choosing number of Visual Words on each data set has been illustrated in followin table:
 Selecting number of Visual Words on each data sets related to number of classes on each data set. In the following table these information has been evaluated. </br>
 
 Number of Visual Words|25|30|40|50|70|100|128
