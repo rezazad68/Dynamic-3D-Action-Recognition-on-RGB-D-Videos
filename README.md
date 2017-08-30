@@ -3,9 +3,9 @@
 
 Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public datasets. This Method Learns Human Actions with Aggregating of Spatio-Temporal Description from different representation. If this code helps with your research please consider citing following paper:
 </br>
-> R. Azad and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation from Different Representation", To be submit, 2017.
+> R. Azad, M. Asadi and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation from Different Representation", To be submit, 2017.
 ## Updates
-- Aug 29, 2017: First release, Complete Implementation for MSR Action 3D dataset
+- First release will be available soon.
 ## Prerequisties and Run
 This code has been implemented in Matlab 2016a and tested in both Linux (ubuntu) and Windows 10, though should be compatible with any OS running Matlab. following Environement and Library needed to run the code:
 - Matlab 2016
