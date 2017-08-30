@@ -1,6 +1,6 @@
 %%%%%%%%%%% Dynamic 3D Hand Gesture and Action Recognition with Learning Spatio-Temporal Aggregation from Different Representation %%%%%%%%%%%%
 
-							### Reza Azad and S. Kasaei ####
+							### R. Azad, M. Asadi and S. Kasaei ####
 
 @ How to Run:
 
@@ -16,7 +16,7 @@ For implementation of the codes, following references has been used:
 1- (Vl feat Library): http://www.vlfeat.org/
 2- (MSR Action and Gesture 3D): http://www.uow.edu.au/%7Ewanqing/#MSRAction3DDatasets
 3- (SKIG): http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm
-4- (Functions from) 3D Action Recognition Using Multi-temporal Depth Motion Maps and Fisher Vecto, 2016.
+4- (C. Chen implementation) http://www.utdallas.edu/~cxc123730/publications.html
 5- (ELM) http://www.ntu.edu.sg/home/egbhuang/elm_kernel.html
 
 
