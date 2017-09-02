@@ -3,7 +3,7 @@
 
 Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public data sets. This Method Learns Human Actions with Aggregating of Spatio-Temporal Description from different representation. If this code helps with your research please consider citing following paper:
 </br>
-> R. Azad, M. Asadi and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation from Different Representation", To be submitted, 2017.
+> [R. Azad](https://rezazad.000webhostapp.com/), [M. Asadi](http://ipl.ce.sharif.edu/members.html) and [S. Kasaei](http://sharif.edu/~skasaei/), "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation from Different Representation", To be submitted, 2017.
 ## Updates
 - September 2, 2017: First release (Complete implemenation for [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) data set)
 ## Prerequisties and Run
@@ -54,5 +54,5 @@ For any query please contact us for more information.
 
 ```python
 razad@ce.sharif.edu
-see [my page](https://rezazad.000webhostapp.com)
+
 ```
