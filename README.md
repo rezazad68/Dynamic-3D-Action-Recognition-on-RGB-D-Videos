@@ -1,17 +1,17 @@
-# [Dynamic 3D Hand Gesture and Action Recognition with Learning Spatio-Temporal Aggregation from Different Representation](https://rezazad.000webhostapp.com)
+# [Dynamic 3D Hand Gesture and Action Recognition with Learning Spatio-Temporal Aggregation from Different Representation](https://github.com/rezazad68/Dynamic-3D-Action-Recognition-on-RGB-D-Videos/blob/master/Dynamic%203D%20Hand%20Gesture%20and%20Action%20Recognition%20with%20Learning%20Spatio-Temporal%20Aggregation%20from%20Different%20Representation.pdf)
 
 
-Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public datasets. This Method Learns Human Actions with Aggregating of Spatio-Temporal Description from different representation. If this code helps with your research please consider citing following paper:
+Dynamic 3D Human Action and Hand Gesture Recogntin on RGB-D videos with State of the Art results on public data sets. This Method Learns Human Actions with Aggregating of Spatio-Temporal Description from different representation. If this code helps with your research please consider citing following paper:
 </br>
 > R. Azad, M. Asadi and S. Kasaei, "Dynamic 3D Hand Gesture and Action Recognition with Learning spatio-temporal aggregation from Different Representation", To be submitted, 2017.
 ## Updates
-- First release will be available soon.
+- September 2, 2017: First release (Complete implemenation for [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) data set)
 ## Prerequisties and Run
 This code has been implemented in Matlab 2016a and tested in both Linux (ubuntu) and Windows 10, though should be compatible with any OS running Matlab. following Environement and Library needed to run the code:
 - Matlab 2016
 - [VL feat 0.9.20](http://www.vlfeat.org/)
 ## Run Demo
-Run the `Main_MSRAction3D()` for both feature extraction and classification of dynamic 3D action. The `Main_MSRAction3D` uses `Step1_Extract_Featues` for extracting spatio-temporal features from different represantion of 3D video and `Step2_Description_Classification` for aggregating of descriptions and classification phase. These two functions can be use seperetely too. Function such as `Video Summarization()`, `Forward Bakward Motion()`, `Difference Forward Energy()`, `Temporal Sequence Generating()`, `Binary Weighted Mapping()`, and extracting `Regional LBP and HOG features()` has been implemented in 'Video_Analyser' class. the `Description_Classification class` contains functions that related to Vlad representation and classification phase.    
+Run the `Main_MSRAction3D()` for both feature extraction and classification of dynamic 3D action. The `Main_MSRAction3D` uses `Step1_Extract_Featues` for extracting spatio-temporal features from different represantion of 3D video and `Step2_Description_Classification` for aggregating of descriptions and classification phase. These two functions can be use seperetely too. Function such as `Video Summarization()`, `Forward Bakward Motion()`, `Difference Forward Energy()`, `Temporal Sequence Generating()`, `Binary Weighted Mapping()`, and extracting `Regional LBP and HOG features()` has been implemented in 'Video_Analyser' class. the `Description_Classification class` contains functions that related to Vlad representation and dimension reduction phase.    
 </br>
 ## Quick Overview
 ![Action and Hand Gesture Recognition](https://user-images.githubusercontent.com/20574689/29744825-1f43af08-8ac2-11e7-894e-2cb1b316185a.png)
@@ -29,7 +29,7 @@ Data Set| Strategy 1 | Strategy 2| Strategy 3
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
 [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
 
-#### Effect of Choosing number of Visual Words on each data set has been illustrated in followin table:
+#### Effect of Choosing number of Visual Words on each data set has been illustrated in the followin table:
 Selecting number of Visual Words on each data sets related to number of classes on each data set. In the following table these information has been evaluated. </br>
 
 Number of Visual Words|25|30|40|50|70|100|128
@@ -54,4 +54,5 @@ For any query please contact us for more information.
 
 ```python
 razad@ce.sharif.edu
+see [my page](https://rezazad.000webhostapp.com)
 ```
