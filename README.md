@@ -29,6 +29,7 @@ Data Set| Strategy 1 | Strategy 2| Strategy 3
 [MSR Gesture 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) | 96.22| 96.52|98.05
 [SKIG](http://lshao.staff.shef.ac.uk/data/SheffieldKinectGesture.htm) | 95.0|95.60|97.31
 [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
+[MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets)|91.94|91.57|95.24
 
 #### Effect of Choosing number of Visual Words on each data set has been illustrated in the followin table:
 Selecting number of Visual Words on each data sets related to number of classes on each data set. In the following table these information has been evaluated. </br>
