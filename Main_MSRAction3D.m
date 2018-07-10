@@ -14,7 +14,7 @@ close all
 
 %% Put Flag value can be 0, 1 or 2, 0 for only extracing features from 3D videos; 1 only for classification step with using extracted features and 2 for both feature extraction and classification step.
 
-Flag = 1; %{0, 1, 2}
+Flag = 0; %{0, 1, 2}
 
 
 
