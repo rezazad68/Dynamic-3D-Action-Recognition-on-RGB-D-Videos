@@ -1,6 +1,6 @@
 %%%%%%%%%%% Dynamic 3D Hand Gesture and Action Recognition with Learning Spatio-Temporal Aggregation from Different Representation %%%%%%%%%%%%
 
-							### R. Azad, M. Asadi and S. Kasaei ####
+							### R. Azad, M. Asadi, S. Kasaei and S. Escalera ####
 
 @ How to Run:
 
