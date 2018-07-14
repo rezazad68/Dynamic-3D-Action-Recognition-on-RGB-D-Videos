@@ -1,4 +1,4 @@
-# [Dynamic 3D Hand Gesture Recognition by Learning Weighted Depth Motion Maps](https://github.com/rezazad68/Dynamic-3D-Action-Recognition-on-RGB-D-Videos/blob/master/Dynamic%203D%20Hand%20Gesture%20Recognition%20with%20Learning%20Spatio-Temporal%20Aggregation%20from%20Different%20Representation.pdf)
+# [Dynamic 3D Hand Gesture Recognition by Learning Weighted Depth Motion Maps](https://ieeexplore.ieee.org/document/8410578/)
 
 
 Dynamic 3D Human Hand Gesture Recogntin on RGB-D videos with State of the Art results on public data sets. This Method Learns Human Actions with Aggregating of Spatio-Temporal Description from different representation. If this code helps with your research please consider citing following paper:
