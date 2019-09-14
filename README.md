@@ -53,9 +53,9 @@ PCA Components|70|100|130|160|190|220|250
 [MSR Action 3D](http://www.uow.edu.au/~wanqing/#MSRAction3DDatasets) |94.54|94.87|95.24|95.25|94.87|94.87|94.87
 
 ### Query
-For any query please contact us for more information.
+All implementation done by Reza Azad. For any query please contact us for more information.
 
 ```python
-razad@ce.sharif.edu
+rezazad68@gmail.com
 
 ```
